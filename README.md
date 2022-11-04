@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MavRemu</h1>
 <h3 align="center">A Full Stack Developer enthusiastic about Crypto</h3>
 
-- 🔭 I’m currently working on [WeTrade](www.wetradecrypto.me)
+- 🔭 I’m currently working on [WeTrade](www.wetradecrypto.me) and [StraatnaamNFTs](https://mavremu.github.io/straatnaamnfts) 
 
 - 🌱 I’m currently learning **Scrypto & React**
 
